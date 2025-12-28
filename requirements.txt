@@ -5,3 +5,13 @@ pillow
 python-multipart
 streamlit
 requests
+tensorflow
+numpy 
+pandas
+streamlit
+pillow
+opencv-python
+ipykernel
+scikit-learn
+matplotlib
+seaborn
