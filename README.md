@@ -33,7 +33,6 @@ The dataset is from [Kaggle's TB Chest Radiography Database](https://www.kaggle.
 2. Create a virtual environment (recommended):
 3. Install dependencies from `requirements.txt`:
 
-Note: There are two `requirements.txt` files—one for the core project and one for the notebook. Merge them if needed.
 
 4. Download the dataset and place it in `TB_Chest_Radiography_Database/` (or update paths in `cnn.ipynb`).
 
@@ -66,4 +65,5 @@ Note: There are two `requirements.txt` files—one for the core project and one 
 "message": "TUBERCULOSIS with 98.76% confidence",
 "note": "This is an AI prediction. Always consult a doctor."
 }
+
 
